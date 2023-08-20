@@ -1,0 +1,8 @@
+datasets/fc.xml
+self.classifier = cv2.CascadeClassifier('datasets/fc.xml')
+
+datasets/bd.xml
+self.classifier = cv2.CascadeClassifier('datasets/bd.xml')
+
+datasets/smile.xml
+datasets/cat.xml
